@@ -1,0 +1,18 @@
+{
+    "boots": [
+        
+            {
+              "name": "Timberland Classic",
+              "variety": "Hiking Boot",
+              "price": 120
+            },
+            {
+              "name": "Dr. Martens 1460",
+              "variety": "Combat Boot",
+              "price": 150
+            }
+          
+          
+    ]
+  }
+  

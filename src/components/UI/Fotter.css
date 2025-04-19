@@ -1,0 +1,26 @@
+.footer-wrapper {
+    background-color: #f0fdf4;
+    border-top: 2px solid #a5d6a7;
+    color: #2e7d32;
+  }
+  
+  .footer-link {
+    color: #2e7d32;
+    transition: color 0.3s ease;
+    font-weight: 500;
+  }
+  
+  .footer-link:hover {
+    color: #1b5e20;
+    text-decoration: underline;
+  }
+  
+  .btn-success {
+    background-color: #2e7d32;
+    border: none;
+    font-weight: 600;
+  }
+  
+  .btn-success:hover {
+    background-color: #1b5e20;
+  }
