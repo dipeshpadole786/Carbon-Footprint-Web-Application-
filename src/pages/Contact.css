@@ -1,0 +1,51 @@
+/* Contact.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Upload Button Custom Styling */
+  input[type="file"] {
+    margin-top: 10px;
+  }
+  
+  /* Image Preview */
+  img.preview {
+    max-height: 250px;
+    width: auto;
+    border-radius: 12px;
+    border: 2px solid #a7f3d0;
+    box-shadow: 0 4px 10px rgba(0, 128, 0, 0.1);
+    margin: 0 auto;
+    display: block;
+  }
+  
+  /* Result Box */
+  .result-box {
+    background-color: #fef9c3;
+    border-left: 5px solid #facc15;
+    color: #92400e;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  
+  /* Button Hover Effect */
+  button[type="submit"]:hover {
+    transform: scale(1.03);
+    transition: 0.3s ease;
+  }
+  
+  /* Responsive container tweaks */
+  @media (max-width: 768px) {
+    .max-w-xl {
+      padding: 1rem;
+    }
+  
+    img.preview {
+      max-height: 200px;
+    }
+  }
+  

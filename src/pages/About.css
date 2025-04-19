@@ -1,0 +1,13 @@
+.Main {
+    padding-left: 80px;
+    margin-left: 150px;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .Main {
+        margin-left: -8px;
+        margin-top: 15px;
+        
+    }
+}

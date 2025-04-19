@@ -1,0 +1,20 @@
+.done button {
+    margin-left: 650px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.alert {
+    height: 300px;
+    width: 500px;
+    margin-left: 500px;
+}
+@media only screen and (max-width: 600px){
+    .done button{
+        margin-left: 130px;
+    }
+    .alert{
+        margin-left: 10px;
+        width: 370px;
+    }
+}
